@@ -1,4 +1,5 @@
 # Made by Sagar Kapoor
+# Flow on credit limit exhausted: send mail to sagarbadal70@gmail.com with 'recharge 5 credits' and hit /api/cron , tell me if you need any change
 
 # Next.js Startup Network Finder
 
